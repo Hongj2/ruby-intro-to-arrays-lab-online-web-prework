@@ -1,7 +1,4 @@
 def instantiate_new_array 
   []
+  array.push ()
 end
-
-def my_two_array (array)
-  [1,2]
-end 
